@@ -1,0 +1,17 @@
+D:\dsada\Kursach_zadumin\bin\Debug\Kursach_zadumin.exe.config
+D:\dsada\Kursach_zadumin\bin\Debug\Kursach_zadumin.exe
+D:\dsada\Kursach_zadumin\bin\Debug\Kursach_zadumin.pdb
+D:\dsada\Kursach_zadumin\obj\Debug\Kursach_zadumin.csproj.AssemblyReference.cache
+D:\dsada\Kursach_zadumin\obj\Debug\Kursach_zadumin.csproj.SuggestedBindingRedirects.cache
+D:\dsada\Kursach_zadumin\obj\Debug\Kursach_zadumin.Login.resources
+D:\dsada\Kursach_zadumin\obj\Debug\Kursach_zadumin.Properties.Resources.resources
+D:\dsada\Kursach_zadumin\obj\Debug\Kursach_zadumin.REG.resources
+D:\dsada\Kursach_zadumin\obj\Debug\Kursach_zadumin.csproj.GenerateResource.cache
+D:\dsada\Kursach_zadumin\obj\Debug\Kursach_zadumin.csproj.CoreCompileInputs.cache
+D:\dsada\Kursach_zadumin\obj\Debug\Kursach_zadumin.exe
+D:\dsada\Kursach_zadumin\obj\Debug\Kursach_zadumin.pdb
+D:\dsada\Kursach_zadumin\obj\Debug\Kursach_zadumin.Dobinv.resources
+D:\dsada\Kursach_zadumin\obj\Debug\Kursach_zadumin.Osnv.resources
+D:\dsada\Kursach_zadumin\obj\Debug\Kursach_zadumin.csproj.ResolveComReference.cache
+D:\dsada\Kursach_zadumin\obj\Debug\Kursach_zadumin.DobKLIENT.resources
+D:\dsada\Kursach_zadumin\obj\Debug\Kursach_zadumin.Klient.resources
